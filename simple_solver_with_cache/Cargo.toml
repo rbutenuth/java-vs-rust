@@ -1,0 +1,6 @@
+[package]
+name = "simple_solver_with_vector_cache"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
